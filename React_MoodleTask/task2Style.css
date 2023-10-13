@@ -1,0 +1,17 @@
+#Nova {
+    background-image: url(https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png);
+    height: 100vh;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+#Watch {
+    width: 300px;
+}
+
+.AN {
+    background-color: rgb(112, 225, 229);
+    width: 500px;
+    /* padding: 5%; */
+}

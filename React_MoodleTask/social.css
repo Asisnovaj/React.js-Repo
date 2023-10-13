@@ -1,0 +1,37 @@
+body {
+    background-image: url('https://images.pexels.com/photos/365633/pexels-photo-365633.jpeg?cs=srgb&dl=pexels-miriam-espacio-365633.jpg&fm=jpg');
+    
+
+    
+
+}
+
+.a {
+
+    margin-left: 200px;
+}
+
+.b {
+    margin-left: 200px;
+
+}
+
+.c {
+    margin-left: 200px;
+
+}
+
+.page {
+    margin-top: 1px;
+
+}
+
+h1 {
+    text-align: center;
+    color: rgb(197, 210, 61);
+    /* padding-top: 30px;
+    margin-bottom: 50px;
+    margin-left: -190px; */
+    /* padding-left: 200px; */
+    
+}
